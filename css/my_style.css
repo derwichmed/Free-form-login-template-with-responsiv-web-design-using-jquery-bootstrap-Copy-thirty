@@ -1,0 +1,60 @@
+body{
+    background-color: skyblue
+}
+.form_login{
+    padding-top: 50px
+}
+.form_login .header{
+    position: relative;
+    padding: 0px   
+}
+.form_login .header > img{
+    width: 100%;
+    height: 80px;
+    position: absolute;
+    top: 0
+}
+.form_login .header > div{
+    position: absolute;
+    width: 100%;
+    top: 0;
+    margin: 0px
+}
+.form_login .header > div > div{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: white;
+    border-bottom: #a9c6e6 5px solid;
+    padding: 10px;
+}
+.form_login .header > div > div > div{
+    width: 100%;
+    height: 100%;
+    background-color: #a9c6e6;
+    border-radius: 100%;
+    padding: 10px;
+}
+.form_login .header > div > div > div > img{
+    width: 100%;
+    height: 100%
+}
+.form_login .body{
+    padding-left: 57px;
+    padding-right: 57px;
+    margin-top: 50px
+}
+.form_login .body > div{
+    height: 350px;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom: #1d3e74 5px solid;
+    padding-top: 60px
+}
+.form_login .body .title{
+    display: block;
+    text-align: center;
+    color: #2d50a1;
+    font-size: 25px
+}
